@@ -1,1 +1,1 @@
-{"name":"rs-trigger","offset":{"x":0,"y":0},"zoom":100,"variables":{},"variableReferences":{},"data":"[[],[]]"}
+{"name":"rs-trigger","offset":{"x":-6.6123431342197545,"y":2.2336333039995413},"zoom":61.451311934330526,"variables":{},"variableReferences":{},"data":"[[[\"Input\",{\"id\":1800,\"name\":\"Input#0\",\"pos\":{\"x\":11,\"y\":-5},\"width\":2,\"height\":1,\"rotation\":0,\"properties\":{},\"input\":[],\"output\":[{\"id\":1801,\"pos\":{\"side\":1,\"pos\":0},\"value\":0}]}]],[]]"}
